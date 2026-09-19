@@ -40,6 +40,8 @@ def receive():
 # --- ШРИФТИ ---
 font_win = font.Font(None, 72)
 font_main = font.Font(None, 36)
+# --- КОЛЬОРИ ---
+BLUE = (15, 30, 80) 
 # --- ЗОБРАЖЕННЯ ----
 
 # --- ЗВУКИ ---
